@@ -1,81 +1,35 @@
 # Hi, I'm İrem Öztürk 👩‍💻
 
-Computer Engineering student focused on **Artificial Intelligence, Computer Vision, and Modern Web Development**.
-
-I build **AI-powered and web-based solutions** that aim to solve real-world problems, especially in **healthcare, accessibility, and data-driven systems**.
+Computer Engineering student building **AI-powered and modern web applications** for real-world problems.
 
 ---
 
 ## 🚀 About Me
-
 - 🎓 4th-year Computer Engineering student  
-- 🤖 Interested in AI, deep learning, and computer vision  
-- 🌍 Working on real-world impactful projects (healthcare & accessibility)  
-- 💻 Passionate about building modern, scalable web applications  
-- 📈 Continuously improving in software engineering & system design  
+- 🤖 Focused on AI, Computer Vision & Deep Learning  
+- 🌐 Developing scalable web applications  
+- 📊 Interested in data-driven and real-world impact projects  
 
 ---
 
 ## 🧠 Tech Stack
-
-### 💻 Languages
-- Python
-- JavaScript / TypeScript
-- C / C++
-
-### 🤖 AI & Data
-- PyTorch
-- TensorFlow
-- OpenCV
-- NumPy / Pandas
-
-### 🌐 Web Development
-- React
-- Next.js
-- Tailwind CSS
-- HTML / CSS
-
-### 🛠 Tools
-- Git & GitHub
-- Google Colab
-- Figma
-- Swagger
+**AI / Data:** PyTorch, TensorFlow, OpenCV  
+**Web:** React, Next.js, TypeScript, TailwindCSS  
+**Languages:** Python, JavaScript, C/C++  
+**Tools:** Git, Colab, Figma  
 
 ---
 
-## 📌 Featured Projects
-
-### 🫁 3D Lung Lesion Segmentation
-Deep learning-based medical imaging project for detecting and segmenting lung lesions from CT scans using U-Net architectures.
-
-### 🧏‍♀️ Engelsiz Yaşam Sistemi
-AI-powered accessibility project focused on sign language recognition and communication support.
-
-### 🌍 Optimus World Time
-Modern responsive web application built with React and optimized UI/UX principles.
-
-### 📊 Student Stress & Academic Performance
-Machine learning and data analysis project exploring relationships between stress and academic outcomes.
-
-### 🤖 ESP32 LLM Assistant
-Embedded systems project integrating ESP32 hardware with LLM-based assistant functionalities.
+## 📌 Featured Work
+- 🫁 **3D Lung Lesion Segmentation** – Deep learning for medical imaging  
+- 🧏‍♀️ **Sign Language System** – AI-based accessibility project  
+- 🌍 **Optimus World Time** – Modern responsive web app  
+- 📊 **Student Stress Analysis** – ML & data analysis  
 
 ---
 
-## 🔭 Currently Working On
-
-- 3D medical image segmentation (U-Net, PyTorch)
-- AI + Web integration projects
-- Improving software architecture & documentation quality
-- Building a professional developer portfolio
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/irem-ozturkkk  
+- Medium: https://medium.com/@iremm.ozturkk.tr  
 
 ---
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/irem-ozturkkk  
-
-
----
-
-
