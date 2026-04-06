@@ -1,5 +1,3 @@
-![banner](banner.png)
-
 # Hi, I'm İrem Öztürk 👩‍💻
 
 Computer Engineering student building **AI-powered and modern web applications** for real-world problems.
