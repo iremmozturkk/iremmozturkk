@@ -1,35 +1,92 @@
-# Hi, I'm İrem Öztürk
+# Hi, I'm İrem Öztürk 👩‍💻
 
-Computer Engineering student focused on AI, computer vision, image processing, and modern web development.
+Computer Engineering student focused on **Artificial Intelligence, Computer Vision, and Modern Web Development**.
 
-## About Me
-- 4th-year Computer Engineering student
-- Interested in AI-powered real-world applications
-- Working on projects in healthcare AI, accessibility technologies, and web development
-- Currently improving my skills in deep learning, React ecosystem, and production-ready software development
+I build **AI-powered and web-based solutions** that aim to solve real-world problems, especially in **healthcare, accessibility, and data-driven systems**.
 
-## Tech Stack
+---
+
+## 🚀 About Me
+
+- 🎓 4th-year Computer Engineering student  
+- 🤖 Interested in AI, deep learning, and computer vision  
+- 🌍 Working on real-world impactful projects (healthcare & accessibility)  
+- 💻 Passionate about building modern, scalable web applications  
+- 📈 Continuously improving in software engineering & system design  
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
 - Python
-- TensorFlow
+- JavaScript / TypeScript
+- C / C++
+
+### 🤖 AI & Data
 - PyTorch
+- TensorFlow
 - OpenCV
+- NumPy / Pandas
+
+### 🌐 Web Development
 - React
-- TypeScript
 - Next.js
 - Tailwind CSS
+- HTML / CSS
+
+### 🛠 Tools
 - Git & GitHub
+- Google Colab
+- Figma
+- Swagger
 
-## Featured Projects
-- **3D Lung Lesion Segmentation** – medical image segmentation project using deep learning
-- **Engelsiz Yaşam Sistemi** – accessibility-focused sign language communication project
-- **Optimus World Time** – frontend-focused responsive web project
-- **Student Stress Academic Performance** – data analysis / machine learning project
+---
 
-## Currently Working On
-- 3D medical image segmentation
-- AI + web integration projects
-- Improving software architecture and documentation
+## 📌 Featured Projects
 
-## Connect With Me
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/irem-ozturkkk)
-- Medium: [Medium](https://medium.com/@iremm.ozturkk.tr)
+### 🫁 3D Lung Lesion Segmentation
+Deep learning-based medical imaging project for detecting and segmenting lung lesions from CT scans using U-Net architectures.
+
+### 🧏‍♀️ Engelsiz Yaşam Sistemi
+AI-powered accessibility project focused on sign language recognition and communication support.
+
+### 🌍 Optimus World Time
+Modern responsive web application built with React and optimized UI/UX principles.
+
+### 📊 Student Stress & Academic Performance
+Machine learning and data analysis project exploring relationships between stress and academic outcomes.
+
+### 🤖 ESP32 LLM Assistant
+Embedded systems project integrating ESP32 hardware with LLM-based assistant functionalities.
+
+---
+
+## 🔭 Currently Working On
+
+- 3D medical image segmentation (U-Net, PyTorch)
+- AI + Web integration projects
+- Improving software architecture & documentation quality
+- Building a professional developer portfolio
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/irem-ozturkkk  
+- ✍️ Medium: https://medium.com/@iremm.ozturkk.tr  
+- 🌐 Portfolio (coming soon)
+
+---
+
+## ⚡ GitHub Stats
+
+![İrem's GitHub stats](https://github-readme-stats.vercel.app/api?username=iremmozturkk&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremmozturkk&layout=compact)
+
+---
+
+## 💡 Quote
+
+> “Building technology that makes life more accessible and meaningful.”
