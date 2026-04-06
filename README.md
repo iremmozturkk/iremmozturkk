@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> 7652c1473f2ff8c60695e4467a1d39669756736e
 # Hi, I'm İrem Öztürk 👩‍💻
 
 Computer Engineering student building **AI-powered and modern web applications** for real-world problems.
