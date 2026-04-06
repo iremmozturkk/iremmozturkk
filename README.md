@@ -74,19 +74,8 @@ Embedded systems project integrating ESP32 hardware with LLM-based assistant fun
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/irem-ozturkkk  
-- ✍️ Medium: https://medium.com/@iremm.ozturkk.tr  
-- 🌐 Portfolio (coming soon)
+
 
 ---
 
-## ⚡ GitHub Stats
 
-![İrem's GitHub stats](https://github-readme-stats.vercel.app/api?username=iremmozturkk&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iremmozturkk&layout=compact)
-
----
-
-## 💡 Quote
-
-> “Building technology that makes life more accessible and meaningful.”
